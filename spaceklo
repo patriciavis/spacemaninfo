@@ -1,11 +1,9 @@
 {
-"Enable": false,
-"Locale": ["Russian"],
-"Times": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+"Enable": true,
+"Locale": ["Indonesian"],
+"Times": ["Jakarta", "Makassar", "Jayapura", "Pontianak"],
 "Links":
 [
-  { "Lang":"Russian", "Link": [""]}
+  { "Lang":"Indonesian", "Link": ["https://1wnpws.top/casino/play/softswiss_pragmaticexternal:Spaceman/demo"]}
 ]
 }
